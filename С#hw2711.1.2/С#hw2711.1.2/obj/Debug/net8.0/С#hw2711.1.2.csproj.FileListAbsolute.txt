@@ -1,0 +1,14 @@
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\bin\Debug\net8.0\С#hw2711.1.2.exe
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\bin\Debug\net8.0\С#hw2711.1.2.deps.json
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\bin\Debug\net8.0\С#hw2711.1.2.runtimeconfig.json
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\bin\Debug\net8.0\С#hw2711.1.2.dll
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\bin\Debug\net8.0\С#hw2711.1.2.pdb
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.AssemblyInfoInputs.cache
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.AssemblyInfo.cs
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.csproj.CoreCompileInputs.cache
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.dll
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\refint\С#hw2711.1.2.dll
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.pdb
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\С#hw2711.1.2.genruntimeconfig.cache
+D:\Study\С#\С#hw2711.1.2\С#hw2711.1.2\obj\Debug\net8.0\ref\С#hw2711.1.2.dll
